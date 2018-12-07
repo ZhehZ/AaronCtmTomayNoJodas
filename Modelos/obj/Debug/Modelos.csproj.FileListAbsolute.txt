@@ -1,0 +1,16 @@
+C:\Users\Alex\Desktop\Gestimonio\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Gestimonio\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\Modelos.dll
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Alex\Desktop\Gestimonio\Modelos\obj\Debug\Modelos.dll
+C:\Users\Alex\Desktop\Gestimonio\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\System.Web.Cors.dll
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\System.Web.Http.dll
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\System.Web.Http.xml
+C:\Users\Alex\Desktop\Gestimonio\Modelos\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Alex\Desktop\Gestimonio\Modelos\obj\Debug\Modelos.csproj.CopyComplete
